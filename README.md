@@ -1,4 +1,4 @@
 # pipelineParallel
 pipelined model parallelism   
    
-using featuremap
+using featuremap grad transfer
